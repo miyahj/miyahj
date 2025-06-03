@@ -18,7 +18,7 @@ My projects can be found <a href="https://github.com/miyahj/Portfolio">here</a>
 
 <br> <h3>📶 Connect with Me</h3>
 <p>You can find me on <a href="https://linkedin.com/in/miyahjordan">Linkedin</a>!</p>
-<p>email: <a href="mailto:jordanmiyahj@gmail.com">jordanmiyahj@gmail.com</a></p>
+email:<a href= "mailto:jordanmiyahj@gmail.com">jordanmiyahj@gmail.com</a>
 
 <!---
 miyahj/miyahj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
