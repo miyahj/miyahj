@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @miyahj
-- 👀 I’m interested in pivoting to data science
-- 🌱 I’m currently learning Python, R, and SQL
-- 📫 How to reach me email: jordanmiyahj@gmail.com
+- 👋 Hi, I’m Miyah Jordan!
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me: You can real me through my email jordanmiyahj@gmail.com!
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I've moved around LA County around 7 times!
+
+Data-driven professional with a Data Science Practitioner certificate from IBM and in the process of obtaining a Data Analysis Certificate of Completion from Calbright College. Through experience, I’m  equipped with knowledge in SQL, Excel, and data visualization tools. My background in chemistry helped strengthen my critical thinking skills, ability to interpret and analyze data, and attention to detail. Quick to adapt and eager to grow in a data analysis role.
 
 <!---
 miyahj/miyahj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
