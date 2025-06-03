@@ -14,11 +14,11 @@
   - Visualization: Tableau
 
 <br><h3>📑 Projects</h3>
-My projects can be found here
+My projects can be found <a href="https://github.com/miyahj/Portfolio">here</a>
 
 <br> <h3>📶 Connect with Me</h3>
-<p>You can find me on <a href=https://linkedin.com/in/miyahjordan>Linkedin</a>!</p>
-<p>email: jordanmiyahj@gmail.com</p>
+<p>You can find me on <a href="https://linkedin.com/in/miyahjordan">Linkedin</a>!</p>
+<p>email: <a href="mailto:jordanmiyahj@gmail.com">jordanmiyahj@gmail.com</a></p>
 
 <!---
 miyahj/miyahj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
